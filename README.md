@@ -1,6 +1,6 @@
-## Slack Chat Application using React.js and Styled-Component
+## Slack Chat Application using React.js and Styled-Components
 
-React와 Styled-Component를 이용한 Slack Chat Application 입니다.
+React와 Styled-Components를 이용한 Slack Chat Application 입니다.
 
 ![Alt text](/src/images/login1.png)
 
@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Redux and React-Redux
 - Material UI
 - React Router
-- Style-Component
+- Style-Components
 - Firebase authentication and Hosting
 
 ## How to Run
