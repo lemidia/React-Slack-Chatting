@@ -1,6 +1,6 @@
 ## Slack Chat Application using React.js and Styled-Components
 
-React와 Styled-Components를 이용한 Slack Chat Application 입니다.
+React와 Styled-Components를 이용한 Slack Chat Application 입니다. (with YouTube PAPAFAM Video)
 
 ![Alt text](/src/images/login1.png)
 
@@ -10,15 +10,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 적용된 기술
 
-- Redux and React-Redux
+- Redux Toolkit and React-Redux
 - Material UI
 - React Router
-- Style-Components
-- Firebase authentication and Hosting
+- Styled-Components
+- Firebase Authentication and Hosting
+- Firebase Hooks
 
 ## How to Run
 
-1. Terminal을 열고 `npm install` 명령으로 dependency를 설치해줍니다. (사전에 node.js가 설치되어 있어야 한다.)
+1. Terminal을 열고 `npm install` 명령으로 dependency(의존성)를 설치합니다. (사전에 node.js가 설치되어 있어야 한다.)
 
 2. /src 폴더 밑에 firebaseConfig.js 파일을 만들고, 자신의 firebase app의 private key and information을 아래와 같이 빈 공간에 기입합니다.
 
