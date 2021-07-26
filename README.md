@@ -8,6 +8,10 @@ React와 Styled-Components를 이용한 Slack Chat Application 입니다. (with 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
+https://slack-lemidia.firebaseapp.com/
+
 ## 적용된 기술
 
 - Redux Toolkit and React-Redux
